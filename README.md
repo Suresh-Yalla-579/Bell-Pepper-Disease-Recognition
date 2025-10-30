@@ -105,6 +105,3 @@ The proposed CNN model efficiently identifies bell pepper leaf diseases with 99.
 Its implementation can significantly assist farmers in early disease detection, protecting crop yield and ensuring sustainable agriculture.  
 
 ---
-
-## 🧩 Repository Structure  
-
